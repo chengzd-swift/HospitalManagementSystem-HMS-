@@ -6,22 +6,16 @@ __pycache__/
 *.sqlite3
 *.db
 
-# Environment variables
-.env
-
-# Virtual environments
+# Virtual environment
 venv/
 .venv/
 env/
 
-# VS Code
+# Environment variables
+.env
+
+# VS Code settings
 .vscode/
 
 # PyCharm
 .idea/
-
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
