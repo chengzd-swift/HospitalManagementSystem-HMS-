@@ -1,6 +1,6 @@
 # Hospital Management System
 
-A comprehensive Hospital Management System developed using Python to streamline hospital operations and improve patient care. The system manages patient registration, appointments, medical records, prescriptions, billing, and illness history tracking.
+A comprehensive Hospital Management System developed using Python to optimize hospital operations and improve patient care. The system manages patient registration, appointments, medical records, prescriptions, billing, and illness history tracking.
 
 ## Features
 
