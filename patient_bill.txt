@@ -1,0 +1,4 @@
+Patient Details:
+Patient ID: P001
+Patient Name: Cheng Zheng De
+Total Charges: RM60.0

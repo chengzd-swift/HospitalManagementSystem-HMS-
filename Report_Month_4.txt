@@ -1,0 +1,4 @@
+Date,Time,Patient ID,Patient Name,Sickeness,Medicine,Total,Next Appointment (Yes/No),Appointment Date,Remarks
+2024-04-30,15:00,P001,Cheng Zheng De,Fever,Paracetomol,60,no,,
+2024-04-29,18:19,P002,Taylor Swift,Flu,Mixagrip,90,yes,2024-04-30,Check-up
+2024-04-29,18:46,P002,Taylor Swift,ADHD,Adderall,100,no,,
